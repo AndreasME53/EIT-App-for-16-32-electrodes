@@ -2,7 +2,7 @@
 
 This is My Software Contributions to the Development of a Low-Cost Chest Electrical Impedance Tomography (EIT) Harness for Fitness and Telemedicine.
 
-I give a detailed analysis in my dissertation, thus I recommend all viewers to read my paper before continuing.
+I give a detailed analysis in my dissertation, thus I recommend all viewers to read my paper before [continuing](https://github.com/AndreasME53/EIT-App-for-16-32-electrodes/blob/main/Documentation%20to%20the%20Development%20of%20a%20Low-Cost%20Chest%20Electrical%20Impedance.pdf).
 
 
 

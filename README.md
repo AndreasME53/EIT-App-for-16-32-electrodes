@@ -1,5 +1,4 @@
-
-#### Description
+## Description 
 
 This is My Software Contributions to the Development of a Low-Cost Chest Electrical Impedance Tomography (EIT) Harness for Fitness and Telemedicine.
 

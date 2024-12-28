@@ -5,9 +5,12 @@ This is My Software Contributions to the Development of a Low-Cost Chest Electri
 I give a detailed analysis in my dissertation, thus I recommend all viewers to read my paper before continuing.
 
 
+
 #### Getting Started
 
 In order to get started developing and using the APP, you'll need to do a few things first. 
+
+Due to the size of my APP I recommend you to download it from my [onedrive](https://liveuclac-my.sharepoint.com/my?id=%2Fpersonal%2Fucaba53%5Fucl%5Fac%5Fuk%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FEIT%5FAPP%5Ffor%5F32%5Fand%5F16%5Fsystem%2Ezip&parent=%2Fpersonal%2Fucaba53%5Fucl%5Fac%5Fuk%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1), As I use 2 large jacobian matrixes to models the electrodes.
 
 I recommend using conda.
 

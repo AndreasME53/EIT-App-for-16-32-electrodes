@@ -1,6 +1,18 @@
-To install and this EIT app, first install conda.
 
-1. once conda is install or you already have it, change directory into this folder with the conda cmd 
+#### Description
+
+This is My Software Contributions to the Development of a Low-Cost Chest Electrical Impedance Tomography (EIT) Harness for Fitness and Telemedicine.
+
+I give a detailed analysis in my dissertation, thus I recommend all viewers to read my paper before continuing.
+
+
+#### Getting Started
+
+In order to get started developing and using the APP, you'll need to do a few things first. 
+
+I recommend using conda.
+
+1. Once conda is install or you already have it, change directory into this folder with the conda cmd 
 and create an enviroment using this command (where env_name is the enviroment name of your choice):
 
 	'conda create --name <env_name> --file requirements.txt'			
